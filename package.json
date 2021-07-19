@@ -8,6 +8,8 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@braid/vue-formulate": "^2.5.2",
+    "@johmun/vue-tags-input": "^2.1.0",
     "core-js": "^3.6.5",
     "vue": "^2.6.11"
   },
